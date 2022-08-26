@@ -1,4 +1,4 @@
-# small-scale-challenge
+# small-scale-challenge codes
 Here contain the codes used in our paper.
 
 obs_data.ipynb is about how we handel the observation data.
